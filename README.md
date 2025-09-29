@@ -15,7 +15,7 @@ A comprehensive full-stack disaster management platform that connects government
 - *Emergency Alert System*: Government-issued notifications and update
 - *Responsive Design*: Mobile-first approach with dark theme
 - 
-## 🛠 Tech Stack
+##  Tech Stack
 
 ### Frontend
 - *React 18* with TypeScript
