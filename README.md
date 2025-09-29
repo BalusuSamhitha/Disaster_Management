@@ -2,7 +2,7 @@
 
 A comprehensive full-stack disaster management platform that connects government officials, volunteers, and users in need during natural disasters and emergencies.
 
-## 🚀 Features
+## Features
 
 ### Role-based Authentication & Dashboards
 - *Government Officials*: Monitor disasters, manage resources, create alerts, view analytics
@@ -31,7 +31,7 @@ A comprehensive full-stack disaster management platform that connects government
 - *bcryptjs* for password hashing
 - *CORS* enabled
 
-## 📦 Installation
+## Installation
 
 1. *Clone the repository*
 bash
@@ -68,7 +68,7 @@ npm run server
 npm run dev
 
 
-## 🔐 Demo Accounts
+##  Demo Accounts
 
 The application includes demo accounts for testing:
 
@@ -76,7 +76,7 @@ The application includes demo accounts for testing:
 - *Volunteer*: volunteer@demo.com / password123
 - *User in Need*: user@demo.com / password123
 
-## 📱 Usage Guide
+##  Usage Guide
 
 ### For Users in Need
 1. *Register/Login* to your account
@@ -99,7 +99,7 @@ The application includes demo accounts for testing:
 
 
 
-## 🔧 API Endpoints
+##  API Endpoints
 
 ### Authentication
 - POST /api/auth/register - Register new user
@@ -123,7 +123,7 @@ The application includes demo accounts for testing:
 - POST /api/contact - Submit contact form
  
 
-## 🔄 Workflow
+##  Workflow
 
 ### Help Request Lifecycle
 1. *User submits help request* → Status: pending
@@ -138,7 +138,7 @@ The application includes demo accounts for testing:
 - *Real-time updates* across all dashboards
 
 
-## 🔧 Development
+##  Development
 
 ### Running in Development Mode
 bash
